@@ -1,107 +1,85 @@
-<!-- Custom Banner (replace with your image URL) -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-url-here" alt="Mohammed Rahis Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/mohammedraees07/mohammedraees07/main/assets/banner.png" alt="Mohammed Rahis Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammed Raees</h1>
 <h3 align="center">Backend Developer | Java Spring Boot | React | AI Integrations | CSE Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedraees07&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammedraees07&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Final-year **CSE Student** | CGPA: **8.08/10**
-- 🏆 **Kaushaal ’25 Winner** – Built an AI Intelligent IDE (*DeLearner*)
-- 💻 Specializing in **Java Spring Boot, Microservices, REST APIs**
-- 🌐 Full-stack: **React + Node.js + Spring Boot**
-- 🤖 Experienced with **Gemini, Groq, AI API Integrations**
-- 📈 Passionate about **DSA, clean architecture & scalable systems**
+## 🚀 About Me  
+- 🎓 Final-year **CSE Student** (CGPA: 8.08/10)  
+- 🏆 **Kaushaal ’25 Winner** – Built an AI Intelligent IDE  
+- ⚙️ Specializing in **Java Spring Boot, Microservices, REST APIs**  
+- 🌐 Full-stack: **React + Node.js + Spring Boot**  
+- 🤖 AI Integrations: **Gemini, Groq APIs**  
+- 📘 Strong fundamentals in **DSA, DBMS, OS, OOPS**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠 Tech Stack
 
 ### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![JS](https://skillicons.dev/icons?i=js)
+![TS](https://skillicons.dev/icons?i=ts)
 
 ### **Backend**
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?logo=postman&logoColor=white)
+![Spring](https://skillicons.dev/icons?i=spring)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
 ### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+### **Database**
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white)
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Postman](https://skillicons.dev/icons?i=postman)
+![IntelliJ](https://skillicons.dev/icons?i=idea)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔹 **DeLearner – AI-Powered Intelligent IDE**
-AI-assisted debugging + real-time fixes  
-Tech: React, Node.js, TypeScript, Gemini, Groq
-
-### 🔹 **Nexus Digital – AI Marketing Platform**
-AI content generator + Stripe billing  
-Tech: React, Node.js, MongoDB, Gemini API
-
-### 🔹 **Automated Payroll System – RPA**
-Excel automation using UiPath for salary processing
-
----
-
-## 🏆 Achievements
-- 🥇 **1st Prize – KAUSHAAL ’25 Project Showcase**
-- 🛠 Built an Explainable-AI debugging platform improving productivity by **40%**
-- ⚡ Improved UI load time by **20%** through optimized component design
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats (WORKING LINKS ✔️)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammedraees07&theme=tokyonight" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=mohammedraees07&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedraees07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mohammedraees07&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedraees07&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedraees07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 GitHub Trophies (Works ✔️)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedraees07&theme=onedark&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedraees07&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
+
+<p align="center">
 <a href="https://raees04.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/mohammed-raees" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mohammedraees004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -109,4 +87,4 @@ Excel automation using UiPath for salary processing
 
 ---
 
-## ⭐ If you like my work, consider giving my repositories a star!
+## ⭐ If you like my work, please star my repositories!
