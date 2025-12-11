@@ -1,3 +1,5 @@
+# 💫 About Me:
+Building full-stack applications using React, Node.js, Express, MongoDB.<br>Writing cleaner backend architecture, optimizing APIs & improving project structure.<br>Improving scalability patterns, backend architecture, and advanced Spring Boot concepts.<br>DSA (Java), Spring Boot, REST APIs, Authentication, and modern Web Development.<br>Java, Spring Boot, backend architecture, creative startup ideas, and anything tech-related you’re curious about.<br>I learn faster by building ambitious projects than reading tutorials.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raeesss.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedraees04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohammedraees04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raeesm216@gmail.com) 
