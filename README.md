@@ -54,26 +54,27 @@
 
 ---
 
-## 📊 GitHub Stats (WORKING LINKS ✔️)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=mohammedraees07&theme=tokyonight&hide_border=true" />
+  <img src="https://stats-cards-delta.vercel.app/api?username=mohammedraees07&theme=tokyonight&show_icons=true" height="160" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mohammedraees07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://stats-cards-delta.vercel.app/api/top-langs/?username=mohammedraees07&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedraees07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mohammedraees07&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
-## 🏅 GitHub Trophies (Works ✔️)
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedraees07&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedraees07&theme=tokyonight&no-frame=true&column=6" />
 </p>
+
 
 ---
 
