@@ -2,7 +2,7 @@
 
 Backend-focused Full Stack Developer passionate about building real-world products, solving problems through code, and understanding how systems work behind the scenes.
 
-Most of my recent work revolves around backend architecture, authentication, authorization, database design, and API integrations. Alongside development, I actively practice Data Structures & Algorithms in Java to strengthen problem-solving fundamentals.
+Most of my recent work revolves around backend architecture, authentication, authorization, database design, and API integrations. Alongside development, 250+ problems solved across LeetCode, TUF, and GeeksforGeeks.
 
 ---
 
