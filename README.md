@@ -1,42 +1,85 @@
-## 🐥 About Me
+# Hi, I'm Mohammed Raees 👋
 
-Hi! I'm **Mohammed Raees**, a developer passionate about building clean, scalable, and user-focused applications.
+Backend-focused Full Stack Developer passionate about building real-world products, solving problems through code, and understanding how systems work behind the scenes.
 
-### 🚀 What I Do  
-- Craft full-stack applications using **React, Node.js, Express, MongoDB**  
-- Build and refine **backend architecture** with Spring Boot & REST APIs  
-- Focus on clean code, API optimization, and improving system structure  
-
-### 📚 What I’m Learning  
-- **DSA in Java**  
-- **Spring Boot ecosystem** (Authentication, REST APIs, Design Patterns)  
-- Modern Web Development & cloud deployment workflows  
-
-### 💬 Ask Me About  
-**Java, Spring Boot, backend architecture, creative startup ideas, modern web dev, or anything tech-curious!**
-
-### ⚡ Fun Fact  
-I learn faster by building ambitious projects than reading tutorials.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raeesss.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedraees04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohammedraees04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raeesm216@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![UiPath](https://img.shields.io/badge/UiPath-%230077C8.svg?style=for-the-badge&logo=uipath&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohammedraees07&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohammedraees07&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedraees07&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohammedraees07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Most of my recent work revolves around backend architecture, authentication, authorization, database design, and API integrations. Alongside development, I actively practice Data Structures & Algorithms in Java to strengthen problem-solving fundamentals.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohammedraees07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 🧠 CodeNexus
+
+Peer-to-peer learning platform designed to help students stay consistent with DSA and technical learning.
+
+* Institution-only authentication
+* Role-Based Access Control (RBAC)
+* XP & leaderboard system
+* LeetCode integration
+* PostgreSQL relational design
+
+### 📱 Minara
+
+Production mobile application focused on community and management workflows.
+
+* Google Vision API integration
+* Firebase Cloud Functions
+* OCR-based payment verification
+* Admin & Super Admin dashboards
+
+### ✍️ Blog App
+
+Backend-focused project built to deeply understand authentication and authorization.
+
+* JWT Authentication
+* Ownership Validation
+* Admin Controls
+* MongoDB Relationships
+* Protected Routes & Middleware
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+Java • JavaScript • TypeScript
+
+### Backend
+
+Node.js • Express.js • REST APIs • JWT
+
+### Frontend
+
+React • Tailwind CSS
+
+### Databases
+
+PostgreSQL • MongoDB • Supabase
+
+### Tools
+
+Git • GitHub • Postman • Firebase • Render • Vercel
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms in Java
+* Backend System Design
+* Database Design & Optimization
+* Scalable API Architecture
+
+---
+
+## 📫 Connect
+
+💼 LinkedIn: linkedin.com/in/mohammedraees04
+
+🌐 Portfolio: raees04.me
+
+📧 Email: [raeesm216@gmail.com](mailto:raeesm216@gmail.com)
+
+---
+
+> I learn best by building ambitious projects, breaking things, fixing them, and understanding why they broke in the first place.
