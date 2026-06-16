@@ -74,11 +74,9 @@ Git • GitHub • Postman • Firebase • Render • Vercel
 
 ## 📫 Connect
 
-💼 LinkedIn: linkedin.com/in/mohammedraees04
-
-🌐 Portfolio: raees04.me
-
-📧 Email: [raeesm216@gmail.com](mailto:raeesm216@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedraees04)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raeesm216@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://raees04.me)
 
 ---
 
