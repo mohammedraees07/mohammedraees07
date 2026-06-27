@@ -47,19 +47,19 @@ Java • JavaScript • TypeScript
 
 ### Backend
 
-Node.js • Express.js • REST APIs • JWT
+Node.js • Express.js • REST APIs • JWT Authentication
 
 ### Frontend
 
-React • Tailwind CSS
+HTML • CSS • React • Tailwind CSS
 
 ### Databases
 
-PostgreSQL • MongoDB • Supabase
+PostgreSQL • MongoDB 
 
 ### Tools
 
-Git • GitHub • Postman • Firebase • Render • Vercel
+Git • GitHub • Postman • Render • Vercel • Supabase • Firebase
 
 ---
 
